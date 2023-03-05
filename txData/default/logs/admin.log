@@ -1,0 +1,55 @@
+
+================================================================
+======== txAdmin Starting - 2023-03-04, 1:46:08 p.m.            
+================================================================
+[13:47:01][giberic] created admins file
+[13:47:11][giberic] logged in from 127.0.0.1 via password
+[13:59:39][giberic] Changing global settings via setup stepper and started Deployer.
+[13:59:48][giberic] Setting recipe.
+[14:01:00][giberic] Running recipe.
+[14:01:20][giberic] Completed and committed server deploy.
+[14:07:00][giberic] Changing global settings.
+[14:09:47][giberic] Sending announcement: Testing announcement feature
+[14:14:02][giberic] Editing user 'giberic'.
+[14:14:05][giberic] Editing user 'giberic'.
+[14:14:06][giberic] logged in via in-game ui
+[14:14:51][giberic] logged in from via NUI iframe
+[14:14:51][giberic] logged in from via NUI iframe
+[14:14:51][giberic] logged in from via NUI iframe
+[14:14:52][giberic] logged in from via NUI iframe
+[14:15:28][giberic] logged in from via NUI iframe
+[14:21:55][giberic] executed "RESTART SERVER"
+[14:22:37][giberic] logged in via in-game ui
+[14:40:10][giberic] executed "ensure "money""
+[14:41:06][giberic] executed "ensure "player-data""
+[14:41:08][giberic] executed "refresh"
+[14:41:09][giberic] executed "refresh"
+[14:54:44][giberic] executed "ensure "fivem""
+[14:54:45][giberic] executed "ensure "example-loadscreen""
+[14:55:27][giberic] Adding admin 'casper'.
+[14:55:27][giberic] logged in via in-game ui
+[14:55:32][giberic] logged in from via NUI iframe
+[14:57:03][giberic] executed "ensure "money-fountain""
+[14:57:40][giberic] logged in via in-game ui
+[14:58:10][giberic] executed "ensure "ped-money-drops""
+[14:58:14][giberic] executed "ensure "money-fountain-example-map""
+[14:58:39][giberic] executed "RESTART SERVER"
+[14:59:37][giberic] logged in via in-game ui
+[15:13:35][giberic] executed "RESTART SERVER"
+[15:14:20][giberic] logged in via in-game ui
+[15:15:15][giberic] logged in from via NUI iframe
+[15:15:52][giberic] Editing user 'casper'.
+[15:15:52][giberic] logged in via in-game ui
+[15:15:55][giberic] logged in from via NUI iframe
+[15:16:08][giberic] Deleting user 'casper'.
+[15:16:08][giberic] logged in via in-game ui
+[15:16:11][giberic] logged in from via NUI iframe
+[15:18:09][giberic] logged in via in-game ui
+[15:19:52][giberic] Editing user 'giberic'.
+[15:19:52][giberic] logged in via in-game ui
+[15:19:55][giberic] logged in from via NUI iframe
+[15:20:06][giberic] Adding admin 'casper'.
+[15:20:06][giberic] logged in via in-game ui
+[15:20:15][giberic] logged in from via NUI iframe
+[16:02:00][giberic] executed "ensure "playernames""
+[16:07:35][giberic] executed "RESTART SERVER"

@@ -1,0 +1,31 @@
+[
+  {
+    "name": "giberic",
+    "master": true,
+    "password_hash": "$2a$11$SI0/9zwqczlrgw1XI/XBq.EvN7x8qZL9niaujBiAeg/UlECxR1iGq",
+    "providers": {
+      "citizenfx": {
+        "id": "giberic",
+        "identifier": "fivem:1843138",
+        "data": {}
+      }
+    },
+    "permissions": []
+  },
+  {
+    "name": "casper",
+    "master": false,
+    "password_hash": "$2a$11$nvCB3x.VGQuwcmLcjJInMeRLuE7OUV/VgfcUunpm2pSMKTr1MHq9y",
+    "password_temporary": true,
+    "providers": {
+      "discord": {
+        "id": "260927217729536002",
+        "identifier": "discord:260927217729536002",
+        "data": {}
+      }
+    },
+    "permissions": [
+      "all_permissions"
+    ]
+  }
+]
