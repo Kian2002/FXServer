@@ -1,18 +1,21 @@
-local spawnPos = vector3(686.245,577.950,130.461)
+local spawnPos = vector3(686.245, 577.950, 130.461)
 
 AddEventHandler('onClientGameTypeStart', function()
-    function()
-        exports.spawnmanager:setAutoSpawn(false)
+    exports.spawnmanager:setAutoSpawnCallback(function()
         exports.spawnmanager:spawnPlayer({
             x = spawnPos.x,
             y = spawnPos.y,
             z = spawnPos.z,
-            model = 'a_m_y_skater_01'
+            model = 'g_m_m_armgoon_01'
         }, function()
             TriggerEvent('chat:addMessage', {
-                color = {255, 0, 0},
+                color = { 120, 77, 45},
                 multiline = true,
-                args = {'Spawn', 'You have spawned at the skate park.'}
+                args = { 'Welcome to the party!~' }
             })
         end)
     end)
+
+    exports.spawnmanager:setAutoSpawn(true)
+    exports.spawnmanager:forceRespawn()
+end)
